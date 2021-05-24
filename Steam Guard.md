@@ -57,4 +57,7 @@ Existem algumas restrições no Mercado da Steam quando não se possui o Steam G
 		- Interação (adicionar/seguir) com curadores.
 
 
-
+### Fontes:
+[Technoblog.net](tecnoblog.net/262093/como-ativar-e-desativar-o-steam-guard/)
+[Suporte Steam: Como configurar um Autenticador Móvel do Steam Guard](https://support.steampowered.com/kb_article.php?ref=4440-RTUI-9218&l=portuguese)
+[Suporte Steam: Restrições de trocas e Mercado](https://support.steampowered.com/kb_article.php?ref=1047-edfm-2932&l=brazilian)
